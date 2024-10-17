@@ -1,0 +1,104 @@
+[1mdiff --git a/sample.html b/sample.html[m
+[1mdeleted file mode 100644[m
+[1mindex 6b3f1ef..0000000[m
+[1m--- a/sample.html[m
+[1m+++ /dev/null[m
+[36m@@ -1,97 +0,0 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <title>Document</title>[m
+[31m-    <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,600;1,700;1,900&display=swap" rel="stylesheet">[m
+[31m-    <link rel="stylesheet" href="/demo.css">[m
+[31m-    <style> @import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap'); </style>[m
+[31m-    <style> @import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Yeon+Sung&display=swap'); </style>[m
+[31m-      <script src="/file3.js"></script></head>[m
+[31m-<body>[m
+[31m-    <header id="bot1">[m
+[31m-    <nav id="navi" class="container">[m
+[31m-        <div id="leftnav">[m
+[31m-           <img src="/star.jpg.webp" alt="sam" height="20">[m
+[31m-           <a href="#">home</a>[m
+[31m-           <a href="#">skills</a>[m
+[31m-           <a href="#">profile</a>[m
+[31m-           <a href="#">about</a>[m
+[31m-        </div>[m
+[31m-        <div id="rightnav">[m
+[31m-           <div><h4>Subscribe</h4></div>[m
+[31m-           <div><img src="/youtube bell.png" height="25" width="25" alt="lkjdlw"></div>[m
+[31m-        </div>[m
+[31m-        [m
+[31m-    </nav>[m
+[31m-    <div id="hero">[m
+[31m-        <div id="lefthero">[m
+[31m-            <img src="/int.jpg" alt="int" width="300" height="250">[m
+[31m-        </div>[m
+[31m-        <div id="righthero">[m
+[31m-            <h6>FULL STOCK DEVELOPER</h6>[m
+[31m-            <h1><span>Hello,iam vamshi</span></h1>[m
+[31m-            <p>The ultimate goal of an about me passage is to convince the recruiter that you are the best choice for this role. While assuring your capacity to the readers, make sure your content should neither sound like a promotional advertisement nor like any pledge. Instead, they should naturally speak about the ability of the applicant..</p>[m
+[31m-        [m
+[31m-            <button>Click here for download resume</button></div>[m
+[31m-        [m
+[31m-        </div>[m
+[31m-        </header><hr>[m
+[31m-        <center> <img src="/skill.jpg" alt="skill " height="150"><h2><u>SKILLS</u></h2></center>[m
+[31m-    [m
+[31m-    <div id="seco">[m
+[31m-   [m
+[31m-        <div id="card1" class="card">[m
+[31m-            <h3>1.HTML</h3><hr>[m
+[31m-            <p>Iam certified in the course of both in html and css.iam able to develop the webpages with helpm of html and css. </p>[m
+[31m-        </div>[m
+[31m-        <div id="card2" class="card">[m
+[31m-           <h3>2.JAVA</h3><hr>[m
+[31m-            <p>As a IT employee we must and learn one programming language so,i developed my self in corejava(S2E).[m
+[31m-           </p>[m
+[31m-        </div>[m
+[31m-        <div id="card3" class="card">[m
+[31m-            <h3>3.SQL</h3><hr>[m
+[31m-            <p>For retriving the data from database we use sql quarries i have intermediate knowledge in sql</p>[m
+[31m-             [m
+[31m-          </div>[m
+[31m-          <div id="card4" class="card">[m
+[31m-            <h3>4.QA</h3><hr>[m
+[31m-            <p>I have an internship expierience in mannual testing to test the apllication wheather it is working properly or not</p>[m
+[31m-             [m
+[31m-          </div>[m
+[31m-         [m
+[31m-          </div>[m
+[31m-    </div>[m
+[31m-    <div id="phase">[m
+[31m-        <div id="leftp">[m
+[31m-            <img src="/profile.webp "height=570 width="600" alt="profile">[m
+[31m-        </div>[m
+[31m-        <div id="rightp">[m
+[31m-            <div><img id="image" src="/prop.png" alt="profile" height="100" width="100">[m
+[31m-            <h2>PROFILE</h2>[m
+[31m-            <div id="left">[m
+[31m-             <img id="img1"src="/vamshi pict.jpg"height="200" width="200" alt="userpic"><h3>Rendla VamshiKrishna</h3>[m
+[31m-                <div id="cont"><h3>@Contact Info:</h3>[m
+[31m-                <pre>   Email ID:Vamshiv897@gmail.com<br>   Contact NO:9652735589</pre></div> [m
+[31m-                </div></div>[m
+[31m-            <div id="right">[m
+[31m-                <img src="/sociamed.png" height="250" width="250"   alt="sm">[m
+[31m-                [m
+[31m-                    <h2> SOCIAL'S:</h2>[m
+[31m-                    <div id="icons">[m
+[31m-                <img src="/fb.png"     class="soc"   height="30" width="30"        alt="fb">[m
+[31m-                <img src="/insta.png"   class="soc"  height="30" width="30"     alt="insta">[m
+[31m-                <img src="/whatsup.png" class="soc" height="30" width="30"   alt="whats">[m
+[31m-                <img src="/linked.png"  class="soc"   height="30" width="30"    alt="linkdin">[m
+[31m-                </div>[m
+[31m-                </div>[m
+[31m-               [m
+[31m-            </div>[m
+[31m-        </div>[m
+[31m-    </div>[m
+[31m- [m
+[31m-</body>[m
+[31m-</html>[m
+\ No newline at end of file[m
